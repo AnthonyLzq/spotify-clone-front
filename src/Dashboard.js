@@ -82,7 +82,7 @@ const Dashboard = ({ code }) => {
           { 
             params: {
               artist: playingTrack.artist,
-              track: playingTrack.title
+              title : playingTrack.title
             }
           }
         )
